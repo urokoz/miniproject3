@@ -1,0 +1,1 @@
+Covid spike proteins were selected by choosing ~20 coding sequences from Omicron, ~15 sequences from Delta and ~15 randomly choosen. Ensured to take some from different collection dates and different areas in order to get a diverse and representative batch of samples.
